@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="error_color">#EA0606</color>
+    <color name="select_step_progress_color">#ffc107</color>
+    <color name="done_step_item">#2f8d46</color>
+    <color name="nest_Step_item">#FFC107</color>
+</resources>
